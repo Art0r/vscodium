@@ -1,0 +1,8 @@
+disabled: []
+enabled:
+  - id: NicholasHsiang.vscode-vue3-snippets
+    uuid: fe31a3b1-7468-4865-90e4-cb399bf822fc
+  - id: Vue.volar
+    uuid: a95ee795-1576-4ffa-acda-8d6e6a95c584
+  - id: zokugun.cron-tasks
+    uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb
