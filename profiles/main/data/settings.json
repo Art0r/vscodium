@@ -1,4 +1,6 @@
 {
     "files.autoSave": "afterDelay",
-    "workbench.colorTheme": "Dark Modern"
+    "workbench.colorTheme": "Jetbrains Dark Theme",
+    "explorer.fileNesting.expand": false,
+    "explorer.fileNesting.enabled": false
 }

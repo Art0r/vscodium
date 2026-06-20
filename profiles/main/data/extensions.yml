@@ -1,5 +1,7 @@
 disabled: []
 enabled:
+  - id: MoBalic.jetbrains-dark-theme
+    uuid: 2f1f652b-198b-4411-b2bd-f8d0909fb2ae
   - id: NicholasHsiang.vscode-vue3-snippets
     uuid: fe31a3b1-7468-4865-90e4-cb399bf822fc
   - id: Vue.volar
